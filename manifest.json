@@ -2,7 +2,7 @@
   "name": "Despesas Mensais",
   "short_name": "Despesas",
   "description": "Controle suas despesas mensais",
-  "start_url": "./index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#534AB7",
